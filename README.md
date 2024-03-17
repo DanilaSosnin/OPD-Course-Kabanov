@@ -1,2 +1,2 @@
 # OPD-Course-Kabanov
-Скриншот пройденного курса на языке Python
+Скриншот пройденного курса Python. Start.
